@@ -1,7 +1,7 @@
 ---
 ## Hello, Developer 👋
 
-Looks like you stumbled upon my GitHub!
+### Looks like you stumbled upon my GitHub!
 
 My name is **Joshua Quizon**--a software developer with a passion for modern solutions. I graduated
 from the New Jersey Institute of Technology with a B.S. in Computer Science, currently working
@@ -46,4 +46,4 @@ as a Systems Development Associate at PGIM Fixed Income.
 
 ---
 
-### Safe travels!
+### Thanks for stopping by--safe travels!
